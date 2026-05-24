@@ -2,6 +2,7 @@
 🚀 Live Demo
 
 [Open Live Demo](https://aivideoassistant-production.up.railway.app)
+
 ✨ Features
 
 - 🎙️ Local Whisper transcription
@@ -45,21 +46,25 @@ AI-powered meeting intelligence platform for transcription, summarization, and c
 
 ## Transcription Output
 
+<img width="1903" height="986" alt="Screenshot 2026-05-24 103548" src="https://github.com/user-attachments/assets/4ff4b15b-a818-4298-9f05-d27cd760f0b7" />
 
 
 ---
 
 ## AI Summary
 
+<img width="1874" height="961" alt="Screenshot 2026-05-24 103645" src="https://github.com/user-attachments/assets/bba03908-8799-4237-8000-91420cceb166" />
 
 
 ---
 
 ## RAG Chat
 
+<img width="1889" height="973" alt="Screenshot 2026-05-24 103923" src="https://github.com/user-attachments/assets/5fc47310-60e8-43b4-8811-c2318c853e81" />
 
 
----
+---<img width="1879" height="930" alt="Screenshot 2026-05-24 103951" src="https://github.com/user-attachments/assets/42cdb758-dfeb-45e3-a346-5bccb4390c79" />
+
 
 # 🛠️ Tech Stack
 
